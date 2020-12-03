@@ -25,8 +25,11 @@ Execute the following command:
 npm run assignment
 ```
 
+## Evaluation
 
-
+- Test cases should be comprehensive and understandable.
+- The testing environment should be isolated from the development environment in unit testing.
+- It should cover all cases for a particular function.
 
 
 
