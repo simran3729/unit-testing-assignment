@@ -1,0 +1,12 @@
+{
+  "name": "unit-testing-assignment",
+  "version": "1.0.0",
+  "description": "Unit testing assignment",
+  "main": "assignmentResult.js",
+  "scripts": {
+    "assignment": "node ./src/assignmentResult.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TFT",
+  "license": "ISC"
+}
